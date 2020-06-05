@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartMed.MedicationManagement.API", "SmartMed.Medication.Management.API\SmartMed.MedicationManagement.API.csproj", "{5D010458-9F19-4C27-ACD8-ED0C60270B34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D010458-9F19-4C27-ACD8-ED0C60270B34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D010458-9F19-4C27-ACD8-ED0C60270B34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D010458-9F19-4C27-ACD8-ED0C60270B34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D010458-9F19-4C27-ACD8-ED0C60270B34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96B2E199-75F2-4F7A-AFE4-1CB431398DE7}
+	EndGlobalSection
+EndGlobal

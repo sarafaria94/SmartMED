@@ -1,0 +1,6 @@
+CREATE TABLE "medication" (
+	"medication_id"	INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE,
+	"name"	TEXT NOT NULL,
+	"quantity"	INTEGER NOT NULL DEFAULT 1,
+	"creation_date"	DATETIME NOT NULL DEFAULT current_timestamp
+);
